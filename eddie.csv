@@ -1,0 +1,5 @@
+Customer,Usage,Churn
+A,100,0
+B,50,1
+C,10,1
+D,80,0
