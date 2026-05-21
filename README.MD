@@ -1,4 +1,4 @@
-# Data Science & Machine Learning Notebooks
+# Data Science & Notebooks
 
 A professional collection of Data Science, Artificial Intelligence, and Machine Learning notebooks covering data analysis, visualization, statistical modeling, machine learning algorithms, deep learning, and real-world AI applications.
 
